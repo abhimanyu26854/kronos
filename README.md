@@ -7,7 +7,7 @@ My name is abhimanyu, a student at SSCBS delhi. I maintain a keen interest in cr
 ## Academic Background
 
 I am pursuing a degree in bachlors in computer science honours
-from shaheed sukhdev college of commerce , Delhi
+from shaheed sukhdev college of buisness studies , Delhi
 
 <img width="250" height="250" alt="SSCBS" src="https://github.com/user-attachments/assets/cd50167a-53b7-41b3-8558-864d00b9f246" />
 
